@@ -11,6 +11,7 @@ color_hover: var(--oc-green-5)
 show_quotes: true
 show_commas: true
 target: "_self"
+google_analytics: ""
 
 plugins:
   - jekyll-seo-tag
